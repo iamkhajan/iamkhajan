@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on building solutions
 -->
 
-## Python Enthusiast
+## Programming Enthusiast
 
 ```python
 def my_inspiration():
