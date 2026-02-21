@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 
 ```python
 def my_inspiration():
-  """Prints an inspirational message about learning."""
   message = "Change is constant in life, keep learning"
   print(message)
-# Call the function to display the message
 my_inspiration()
 
